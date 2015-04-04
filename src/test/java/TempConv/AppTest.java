@@ -22,5 +22,10 @@ public class AppTest extends TestCase
         System.out.println("Test2 passed!" );
     }
 
+    public void test3App()
+    {
+        System.out.println("Test3 passed!" );
+    }
+
 
 }
